@@ -172,3 +172,5 @@ cython_debug/
 
 creds/
 crudapi_linux/
+reports/report.html
+users_linux/
